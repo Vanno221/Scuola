@@ -1,6 +1,6 @@
 public void main (){
 <<<<<<< HEAD
-	//Commit MASTER 2
+	//Commit MASTER 3
 =======
 	//Commit BUG_FIX 2
 >>>>>>> FIX_BUG
